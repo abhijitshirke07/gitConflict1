@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Hi  my name is "Yash"
+This file is created by Abhijit
+This file is modified by "Yash"
+=======
+Hi  my name is "Pratik"
+This file is created by Abhijit
+This is Updated ny "Pratik"
+>>>>>>> b1
